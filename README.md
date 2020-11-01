@@ -1,2 +1,2 @@
 # SD-Housing-Population-Proj
-Linear Regression &amp; ML models
+In the annual Data Science Hackathon held at UC San Diego, I worked with my partner to employ Machine Learning Algorithms (Linear Regression, KNN) to predict and analyze the association between features in population distribution and housing distribution in San Diego. We preprocessed population and housing datasets in addition to visualizing overall distribution of demographics and housing in San Diego.
